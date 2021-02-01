@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div>
+      <h2>
+        Box Factory
+      </h2>
+      <form>
+        <label
+          forhtml="color"
+        >
+          Color
+        </label>
+        <input
+          aria-label="Color"
+          id="color"
+          name="color"
+          type="text"
+          value=""
+        />
+        <label
+          forhtml="height"
+        >
+          Height
+        </label>
+        <input
+          aria-label="Height"
+          id="height"
+          name="height"
+          type="text"
+          value=""
+        />
+        <label
+          forhtml="width"
+        >
+          Width
+        </label>
+        <input
+          aria-label="Width"
+          id="width"
+          name="width"
+          type="text"
+          value=""
+        />
+        <button>
+          Add Color Box
+        </button>
+      </form>
+      <div />
+    </div>
+  </div>
+</DocumentFragment>
+`;
